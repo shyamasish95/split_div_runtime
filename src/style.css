@@ -1,0 +1,16 @@
+.rectangle__container {
+  display: grid;
+  grid-template-columns: auto auto;
+  width: 400px;
+  height: 400px;
+}
+
+.innerdiv {
+  background-color: blanchedalmond;
+  border: 2px solid;
+}
+
+.divStyle{
+  display: grid;
+  grid-template-columns: auto auto;
+}
